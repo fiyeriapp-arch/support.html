@@ -10,7 +10,7 @@
   <p>Thanks for playing Balloon Pop! If you have a question, found a bug, or have feedback, we'd love to hear from you.</p>
 
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  <p>Email: <a href="mailto:fiyeri.app@gmail.com">youremail@example.com</a></p>
 
   <h2>Frequently Asked Questions</h2>
 
